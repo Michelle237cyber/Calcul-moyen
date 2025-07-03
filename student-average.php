@@ -30,6 +30,7 @@
         <p>
             <strong>Note:</strong> Grades must be between 0 and 20. The average will be calculated and an appreciation will be given based on the average.
         </p>
+        <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis maxime natus vitae modi soluta iusto rerum fugit dolorum, libero itaque odit. Dolorem deserunt reiciendis, quo odit aliquam at. Amet, optio.</P>
     </form>
 
     <?php
