@@ -26,6 +26,10 @@
         <input type="number" name="math" step="0.01" min="0" max="20" required>
 
         <input type="submit" name="submit" value="Calculate">
+
+        <p>
+            <strong>Note:</strong> Grades must be between 0 and 20. The average will be calculated and an appreciation will be given based on the average.
+        </p>
     </form>
 
     <?php
